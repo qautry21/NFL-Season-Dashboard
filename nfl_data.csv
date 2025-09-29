@@ -1,0 +1,129 @@
+Week,Team,Team Full Name,Conference,Division,Opponent,Opponent Full Name,Opponent Division,Home/Away,Result,Win Flag,Loss Flag,Tie Flag,Points For,Points Against,Total Yards,Yards Allowed,Passing Yards,Passing Yards Allowed,Rushing Yards,Rushing Yards Allowed,Turnovers,Takeaways
+1,DAL,Dallas Cowboys,NFC,NFC East,PHI,Philadelphia Eagles,NFC East,Away,L,0.0,1.0,0.0,20.0,24.0,307.0,302.0,188.0,144.0,119.0,158.0,1.0,0.0
+1,PHI,Philadelphia Eagles,NFC,NFC East,DAL,Dallas Cowboys,NFC East,Home,W,1.0,0.0,0.0,24.0,20.0,302.0,307.0,144.0,188.0,158.0,119.0,0.0,1.0
+1,KC,Kansas City Chiefs,AFC,AFC West,LAC,Los Angeles Chargers,AFC West,Away,L,0.0,1.0,0.0,21.0,27.0,347.0,394.0,249.0,304.0,98.0,90.0,0.0,0.0
+1,LAC,Los Angeles Chargers,AFC,AFC West,KC,Kansas City Chiefs,AFC West,Home,W,1.0,0.0,0.0,27.0,21.0,394.0,347.0,304.0,249.0,90.0,98.0,0.0,0.0
+1,TB,Tampa Bay Buccaneers,NFC,NFC South,ATL,Atlanta Falcons,NFC South,Away,W,1.0,0.0,0.0,23.0,20.0,260.0,358.0,159.0,289.0,101.0,69.0,0.0,0.0
+1,ATL,Atlanta Falcons,NFC,NFC South,TB,Tampa Bay Buccaneers,NFC South,Home,L,0.0,1.0,0.0,20.0,23.0,358.0,260.0,289.0,159.0,69.0,101.0,0.0,0.0
+1,CIN,Cincinnati Bengals,AFC,AFC North,CLE,Cleveland Browns,AFC North,Away,W,1.0,0.0,0.0,17.0,16.0,141.0,327.0,95.0,278.0,46.0,49.0,0.0,2.0
+1,CLE,Cleveland Browns,AFC,AFC North,CIN,Cincinnati Bengals,AFC North,Home,L,0.0,1.0,0.0,16.0,17.0,327.0,141.0,278.0,95.0,49.0,46.0,2.0,0.0
+1,MIA,Miami Dolphins,AFC,AFC East,IND,Indianapolis Colts,AFC South,Away,L,0.0,1.0,0.0,8.0,33.0,211.0,418.0,133.0,262.0,78.0,156.0,3.0,0.0
+1,IND,Indianapolis Colts,AFC,AFC South,MIA,Miami Dolphins,AFC East,Home,W,1.0,0.0,0.0,33.0,8.0,418.0,211.0,262.0,133.0,156.0,78.0,0.0,3.0
+1,LV,Las Vegas Raiders,AFC,AFC West,NE,New England Patriots,AFC East,Away,W,1.0,0.0,0.0,20.0,13.0,389.0,336.0,333.0,276.0,56.0,60.0,1.0,1.0
+1,NE,New England Patriots,AFC,AFC East,LV,Las Vegas Raiders,AFC West,Home,L,0.0,1.0,0.0,13.0,20.0,336.0,389.0,276.0,333.0,60.0,56.0,1.0,1.0
+1,ARI,Arizona Cardinals,NFC,NFC West,NO,New Orleans Saints,NFC South,Away,W,1.0,0.0,0.0,20.0,13.0,276.0,315.0,130.0,208.0,146.0,107.0,0.0,0.0
+1,NO,New Orleans Saints,NFC,NFC South,ARI,Arizona Cardinals,NFC West,Home,L,0.0,1.0,0.0,13.0,20.0,315.0,276.0,208.0,130.0,107.0,146.0,0.0,0.0
+1,PIT,Pittsburgh Steelers,AFC,AFC North,NYJ,New York Jets,AFC East,Away,W,1.0,0.0,0.0,34.0,32.0,271.0,394.0,218.0,212.0,53.0,182.0,0.0,1.0
+1,NYJ,New York Jets,AFC,AFC East,PIT,Pittsburgh Steelers,AFC North,Home,L,0.0,1.0,0.0,32.0,34.0,394.0,271.0,212.0,218.0,182.0,53.0,1.0,0.0
+1,NYG,New York Giants,NFC,NFC East,WSH,Washington Commanders,NFC East,Away,L,0.0,1.0,0.0,6.0,21.0,231.0,432.0,157.0,212.0,74.0,220.0,0.0,0.0
+1,WSH,Washington Commanders,NFC,NFC East,NYG,New York Giants,NFC East,Home,W,1.0,0.0,0.0,21.0,6.0,432.0,231.0,212.0,157.0,220.0,74.0,0.0,0.0
+1,CAR,Carolina Panthers,NFC,NFC South,JAX,Jacksonville Jaguars,AFC South,Away,L,0.0,1.0,0.0,10.0,26.0,255.0,378.0,142.0,178.0,113.0,200.0,3.0,1.0
+1,JAX,Jacksonville Jaguars,AFC,AFC South,CAR,Carolina Panthers,NFC South,Home,W,1.0,0.0,0.0,26.0,10.0,378.0,255.0,178.0,142.0,200.0,113.0,1.0,3.0
+1,TEN,Tennessee Titans,AFC,AFC South,DEN,Denver Broncos,AFC West,Away,L,0.0,1.0,0.0,12.0,20.0,133.0,317.0,62.0,166.0,71.0,151.0,2.0,4.0
+1,DEN,Denver Broncos,AFC,AFC West,TEN,Tennessee Titans,AFC South,Home,W,1.0,0.0,0.0,20.0,12.0,317.0,133.0,166.0,62.0,151.0,71.0,4.0,2.0
+1,SF,San Francisco 49ers,NFC,NFC West,SEA,Seattle Seahawks,NFC West,Away,W,1.0,0.0,0.0,17.0,13.0,384.0,230.0,265.0,146.0,119.0,84.0,2.0,2.0
+1,SEA,Seattle Seahawks,NFC,NFC West,SF,San Francisco 49ers,NFC West,Home,L,0.0,1.0,0.0,13.0,17.0,230.0,384.0,146.0,265.0,84.0,119.0,2.0,2.0
+1,DET,Detroit Lions,NFC,NFC North,GB,Green Bay Packers,NFC North,Away,L,0.0,1.0,0.0,13.0,27.0,246.0,266.0,200.0,188.0,46.0,78.0,1.0,0.0
+1,GB,Green Bay Packers,NFC,NFC North,DET,Detroit Lions,NFC North,Home,W,1.0,0.0,0.0,27.0,13.0,266.0,246.0,188.0,200.0,78.0,46.0,0.0,1.0
+1,HOU,Houston Texans,AFC,AFC South,LAR,Los Angeles Rams,NFC West,Away,L,0.0,1.0,0.0,9.0,14.0,265.0,296.0,151.0,224.0,114.0,72.0,2.0,1.0
+1,LAR,Los Angeles Rams,NFC,NFC West,HOU,Houston Texans,AFC South,Home,W,1.0,0.0,0.0,14.0,9.0,296.0,265.0,224.0,151.0,72.0,114.0,1.0,2.0
+1,BAL,Baltimore Ravens,AFC,AFC North,BUF,Buffalo Bills,AFC East,Away,L,0.0,1.0,0.0,40.0,41.0,432.0,497.0,194.0,389.0,238.0,108.0,1.0,0.0
+1,BUF,Buffalo Bills,AFC,AFC East,BAL,Baltimore Ravens,AFC North,Home,W,1.0,0.0,0.0,41.0,40.0,497.0,432.0,389.0,194.0,108.0,238.0,0.0,1.0
+1,MIN,Minnesota Vikings,NFC,NFC North,CHI,Chicago Bears,NFC North,Away,W,1.0,0.0,0.0,27.0,24.0,254.0,317.0,134.0,198.0,120.0,119.0,1.0,1.0
+1,CHI,Chicago Bears,NFC,NFC North,MIN,Minnesota Vikings,NFC North,Home,L,0.0,1.0,0.0,24.0,27.0,317.0,254.0,198.0,134.0,119.0,120.0,1.0,1.0
+2,WSH,Washington Commanders,NFC,NFC East,GB,Green Bay Packers,NFC North,Away,L,0.0,1.0,0.0,18.0,27.0,230.0,404.0,179.0,269.0,51.0,135.0,0.0,0.0
+2,GB,Green Bay Packers,NFC,NFC North,WSH,Washington Commanders,NFC East,Home,W,1.0,0.0,0.0,27.0,18.0,404.0,230.0,269.0,179.0,135.0,51.0,0.0,0.0
+2,JAX,Jacksonville Jaguars,AFC,AFC South,CIN,Cincinnati Bengals,AFC North,Away,L,0.0,1.0,0.0,27.0,31.0,400.0,350.0,261.0,302.0,139.0,48.0,2.0,3.0
+2,CIN,Cincinnati Bengals,AFC,AFC North,JAX,Jacksonville Jaguars,AFC South,Home,W,1.0,0.0,0.0,31.0,27.0,350.0,400.0,302.0,261.0,48.0,139.0,3.0,2.0
+2,NYG,New York Giants,NFC,NFC East,DAL,Dallas Cowboys,NFC East,Away,L,0.0,1.0,0.0,37.0,40.0,506.0,478.0,422.0,343.0,84.0,135.0,1.0,1.0
+2,DAL,Dallas Cowboys,NFC,NFC East,NYG,New York Giants,NFC East,Home,W,1.0,0.0,0.0,40.0,37.0,478.0,506.0,343.0,422.0,135.0,84.0,1.0,1.0
+2,CHI,Chicago Bears,NFC,NFC North,DET,Detroit Lions,NFC North,Away,L,0.0,1.0,0.0,21.0,52.0,339.0,511.0,205.0,334.0,134.0,177.0,2.0,0.0
+2,DET,Detroit Lions,NFC,NFC North,CHI,Chicago Bears,NFC North,Home,W,1.0,0.0,0.0,52.0,21.0,511.0,339.0,334.0,205.0,177.0,134.0,0.0,2.0
+2,LAR,Los Angeles Rams,NFC,NFC West,TEN,Tennessee Titans,AFC South,Away,W,1.0,0.0,0.0,33.0,19.0,439.0,252.0,290.0,143.0,149.0,109.0,1.0,1.0
+2,TEN,Tennessee Titans,AFC,AFC South,LAR,Los Angeles Rams,NFC West,Home,L,0.0,1.0,0.0,19.0,33.0,252.0,439.0,143.0,290.0,109.0,149.0,1.0,1.0
+2,NE,New England Patriots,AFC,AFC East,MIA,Miami Dolphins,AFC East,Away,W,1.0,0.0,0.0,33.0,27.0,333.0,358.0,211.0,297.0,122.0,61.0,0.0,1.0
+2,MIA,Miami Dolphins,AFC,AFC East,NE,New England Patriots,AFC East,Home,L,0.0,1.0,0.0,27.0,33.0,358.0,333.0,297.0,211.0,61.0,122.0,1.0,0.0
+2,SF,San Francisco 49ers,NFC,NFC West,NO,New Orleans Saints,NFC South,Away,W,1.0,0.0,0.0,26.0,21.0,344.0,307.0,267.0,186.0,77.0,121.0,1.0,1.0
+2,NO,New Orleans Saints,NFC,NFC South,SF,San Francisco 49ers,NFC West,Home,L,0.0,1.0,0.0,21.0,26.0,307.0,344.0,186.0,267.0,121.0,77.0,1.0,1.0
+2,BUF,Buffalo Bills,AFC,AFC East,NYJ,New York Jets,AFC East,Away,W,1.0,0.0,0.0,30.0,10.0,403.0,154.0,179.0,54.0,224.0,100.0,0.0,1.0
+2,NYJ,New York Jets,AFC,AFC East,BUF,Buffalo Bills,AFC East,Home,L,0.0,1.0,0.0,10.0,30.0,154.0,403.0,54.0,179.0,100.0,224.0,1.0,0.0
+2,SEA,Seattle Seahawks,NFC,NFC West,PIT,Pittsburgh Steelers,AFC North,Away,W,1.0,0.0,0.0,31.0,17.0,395.0,267.0,278.0,195.0,117.0,72.0,2.0,2.0
+2,PIT,Pittsburgh Steelers,AFC,AFC North,SEA,Seattle Seahawks,NFC West,Home,L,0.0,1.0,0.0,17.0,31.0,267.0,395.0,195.0,278.0,72.0,117.0,2.0,2.0
+2,CLE,Cleveland Browns,AFC,AFC North,BAL,Baltimore Ravens,AFC North,Away,L,0.0,1.0,0.0,17.0,41.0,323.0,242.0,208.0,197.0,115.0,45.0,2.0,0.0
+2,BAL,Baltimore Ravens,AFC,AFC North,CLE,Cleveland Browns,AFC North,Home,W,1.0,0.0,0.0,41.0,17.0,242.0,323.0,197.0,208.0,45.0,115.0,0.0,2.0
+2,DEN,Denver Broncos,AFC,AFC West,IND,Indianapolis Colts,AFC South,Away,L,0.0,1.0,0.0,28.0,29.0,324.0,473.0,206.0,306.0,118.0,167.0,1.0,0.0
+2,IND,Indianapolis Colts,AFC,AFC South,DEN,Denver Broncos,AFC West,Home,W,1.0,0.0,0.0,29.0,28.0,473.0,324.0,306.0,206.0,167.0,118.0,0.0,1.0
+2,CAR,Carolina Panthers,NFC,NFC South,ARI,Arizona Cardinals,NFC West,Away,L,0.0,1.0,0.0,22.0,27.0,352.0,293.0,303.0,211.0,49.0,82.0,2.0,1.0
+2,ARI,Arizona Cardinals,NFC,NFC West,CAR,Carolina Panthers,NFC South,Home,W,1.0,0.0,0.0,27.0,22.0,293.0,352.0,211.0,303.0,82.0,49.0,1.0,2.0
+2,PHI,Philadelphia Eagles,NFC,NFC East,KC,Kansas City Chiefs,AFC West,Away,W,1.0,0.0,0.0,20.0,17.0,216.0,294.0,94.0,173.0,122.0,121.0,0.0,1.0
+2,KC,Kansas City Chiefs,AFC,AFC West,PHI,Philadelphia Eagles,NFC East,Home,L,0.0,1.0,0.0,17.0,20.0,294.0,216.0,173.0,94.0,121.0,122.0,1.0,0.0
+2,ATL,Atlanta Falcons,NFC,NFC South,MIN,Minnesota Vikings,NFC North,Away,W,1.0,0.0,0.0,22.0,6.0,326.0,198.0,108.0,120.0,218.0,78.0,1.0,4.0
+2,MIN,Minnesota Vikings,NFC,NFC North,ATL,Atlanta Falcons,NFC South,Home,L,0.0,1.0,0.0,6.0,22.0,198.0,326.0,120.0,108.0,78.0,218.0,4.0,1.0
+2,TB,Tampa Bay Buccaneers,NFC,NFC South,HOU,Houston Texans,AFC South,Away,W,1.0,0.0,0.0,20.0,19.0,360.0,266.0,191.0,182.0,169.0,84.0,0.0,0.0
+2,HOU,Houston Texans,AFC,AFC South,TB,Tampa Bay Buccaneers,NFC South,Home,L,0.0,1.0,0.0,19.0,20.0,266.0,360.0,182.0,191.0,84.0,169.0,0.0,0.0
+2,LAC,Los Angeles Chargers,AFC,AFC West,LV,Las Vegas Raiders,AFC West,Away,W,1.0,0.0,0.0,20.0,9.0,317.0,218.0,236.0,150.0,81.0,68.0,1.0,3.0
+2,LV,Las Vegas Raiders,AFC,AFC West,LAC,Los Angeles Chargers,AFC West,Home,L,0.0,1.0,0.0,9.0,20.0,218.0,317.0,150.0,236.0,68.0,81.0,3.0,1.0
+3,MIA,Miami Dolphins,AFC,AFC East,BUF,Buffalo Bills,AFC East,Away,L,0.0,1.0,0.0,21.0,31.0,276.0,360.0,146.0,203.0,130.0,157.0,1.0,0.0
+3,BUF,Buffalo Bills,AFC,AFC East,MIA,Miami Dolphins,AFC East,Home,W,1.0,0.0,0.0,31.0,21.0,360.0,276.0,203.0,146.0,157.0,130.0,0.0,1.0
+3,GB,Green Bay Packers,NFC,NFC North,CLE,Cleveland Browns,AFC North,Away,L,0.0,1.0,0.0,10.0,13.0,230.0,221.0,149.0,125.0,81.0,96.0,1.0,1.0
+3,CLE,Cleveland Browns,AFC,AFC North,GB,Green Bay Packers,NFC North,Home,W,1.0,0.0,0.0,13.0,10.0,221.0,230.0,125.0,149.0,96.0,81.0,1.0,1.0
+3,IND,Indianapolis Colts,AFC,AFC South,TEN,Tennessee Titans,AFC South,Away,W,1.0,0.0,0.0,41.0,20.0,365.0,282.0,228.0,196.0,137.0,86.0,0.0,1.0
+3,TEN,Tennessee Titans,AFC,AFC South,IND,Indianapolis Colts,AFC South,Home,L,0.0,1.0,0.0,20.0,41.0,282.0,365.0,196.0,228.0,86.0,137.0,1.0,0.0
+3,CIN,Cincinnati Bengals,AFC,AFC North,MIN,Minnesota Vikings,NFC North,Away,L,0.0,1.0,0.0,10.0,48.0,171.0,352.0,118.0,183.0,53.0,169.0,5.0,0.0
+3,MIN,Minnesota Vikings,NFC,NFC North,CIN,Cincinnati Bengals,AFC North,Home,W,1.0,0.0,0.0,48.0,10.0,352.0,171.0,183.0,118.0,169.0,53.0,0.0,5.0
+3,PIT,Pittsburgh Steelers,AFC,AFC North,NE,New England Patriots,AFC East,Away,W,1.0,0.0,0.0,21.0,14.0,203.0,369.0,139.0,250.0,64.0,119.0,1.0,5.0
+3,NE,New England Patriots,AFC,AFC East,PIT,Pittsburgh Steelers,AFC North,Home,L,0.0,1.0,0.0,14.0,21.0,369.0,203.0,250.0,139.0,119.0,64.0,5.0,1.0
+3,LAR,Los Angeles Rams,NFC,NFC West,PHI,Philadelphia Eagles,NFC East,Away,L,0.0,1.0,0.0,26.0,33.0,356.0,288.0,196.0,202.0,160.0,86.0,1.0,1.0
+3,PHI,Philadelphia Eagles,NFC,NFC East,LAR,Los Angeles Rams,NFC West,Home,W,1.0,0.0,0.0,33.0,26.0,288.0,356.0,202.0,196.0,86.0,160.0,1.0,1.0
+3,NYJ,New York Jets,AFC,AFC East,TB,Tampa Bay Buccaneers,NFC South,Away,L,0.0,1.0,0.0,27.0,29.0,267.0,347.0,168.0,225.0,99.0,122.0,2.0,0.0
+3,TB,Tampa Bay Buccaneers,NFC,NFC South,NYJ,New York Jets,AFC East,Home,W,1.0,0.0,0.0,29.0,27.0,347.0,267.0,225.0,168.0,122.0,99.0,0.0,2.0
+3,LV,Las Vegas Raiders,AFC,AFC West,WSH,Washington Commanders,NFC East,Away,L,0.0,1.0,0.0,24.0,41.0,354.0,400.0,261.0,199.0,93.0,201.0,0.0,1.0
+3,WSH,Washington Commanders,NFC,NFC East,LV,Las Vegas Raiders,AFC West,Home,W,1.0,0.0,0.0,41.0,24.0,400.0,354.0,199.0,261.0,201.0,93.0,1.0,0.0
+3,ATL,Atlanta Falcons,NFC,NFC South,CAR,Carolina Panthers,NFC South,Away,L,0.0,1.0,0.0,0.0,30.0,332.0,224.0,201.0,114.0,131.0,110.0,3.0,1.0
+3,CAR,Carolina Panthers,NFC,NFC South,ATL,Atlanta Falcons,NFC South,Home,W,1.0,0.0,0.0,30.0,0.0,224.0,332.0,114.0,201.0,110.0,131.0,1.0,3.0
+3,HOU,Houston Texans,AFC,AFC South,JAX,Jacksonville Jaguars,AFC South,Away,L,0.0,1.0,0.0,10.0,17.0,271.0,291.0,184.0,205.0,87.0,86.0,3.0,1.0
+3,JAX,Jacksonville Jaguars,AFC,AFC South,HOU,Houston Texans,AFC South,Home,W,1.0,0.0,0.0,17.0,10.0,291.0,271.0,205.0,184.0,86.0,87.0,1.0,3.0
+3,DEN,Denver Broncos,AFC,AFC West,LAC,Los Angeles Chargers,AFC West,Away,L,0.0,1.0,0.0,20.0,23.0,265.0,376.0,147.0,270.0,118.0,106.0,0.0,2.0
+3,LAC,Los Angeles Chargers,AFC,AFC West,DEN,Denver Broncos,AFC West,Home,W,1.0,0.0,0.0,23.0,20.0,376.0,265.0,270.0,147.0,106.0,118.0,2.0,0.0
+3,NO,New Orleans Saints,NFC,NFC South,SEA,Seattle Seahawks,NFC West,Away,L,0.0,1.0,0.0,13.0,44.0,284.0,320.0,205.0,233.0,79.0,87.0,1.0,1.0
+3,SEA,Seattle Seahawks,NFC,NFC West,NO,New Orleans Saints,NFC South,Home,W,1.0,0.0,0.0,44.0,13.0,320.0,284.0,233.0,205.0,87.0,79.0,1.0,1.0
+3,DAL,Dallas Cowboys,NFC,NFC East,CHI,Chicago Bears,NFC North,Away,L,0.0,1.0,0.0,14.0,31.0,396.0,385.0,275.0,298.0,121.0,87.0,4.0,0.0
+3,CHI,Chicago Bears,NFC,NFC North,DAL,Dallas Cowboys,NFC East,Home,W,1.0,0.0,0.0,31.0,14.0,385.0,396.0,298.0,275.0,87.0,121.0,0.0,4.0
+3,ARI,Arizona Cardinals,NFC,NFC West,SF,San Francisco 49ers,NFC West,Away,L,0.0,1.0,0.0,15.0,16.0,260.0,355.0,154.0,282.0,106.0,73.0,0.0,1.0
+3,SF,San Francisco 49ers,NFC,NFC West,ARI,Arizona Cardinals,NFC West,Home,W,1.0,0.0,0.0,16.0,15.0,355.0,260.0,282.0,154.0,73.0,106.0,1.0,0.0
+3,KC,Kansas City Chiefs,AFC,AFC West,NYG,New York Giants,NFC East,Away,W,1.0,0.0,0.0,22.0,9.0,306.0,281.0,201.0,151.0,105.0,130.0,0.0,2.0
+3,NYG,New York Giants,NFC,NFC East,KC,Kansas City Chiefs,AFC West,Home,L,0.0,1.0,0.0,9.0,22.0,281.0,306.0,151.0,201.0,130.0,105.0,2.0,0.0
+3,DET,Detroit Lions,NFC,NFC North,BAL,Baltimore Ravens,AFC North,Away,W,1.0,0.0,0.0,38.0,30.0,426.0,318.0,202.0,233.0,224.0,85.0,0.0,1.0
+3,BAL,Baltimore Ravens,AFC,AFC North,DET,Detroit Lions,NFC North,Home,L,0.0,1.0,0.0,30.0,38.0,318.0,426.0,233.0,202.0,85.0,224.0,1.0,0.0
+4,NYJ,New York Jets,AFC,AFC East,MIA,Miami Dolphins,AFC East,Away,,,,,,,,,,,,,0.0,0.0
+4,MIA,Miami Dolphins,AFC,AFC East,NYJ,New York Jets,AFC East,Home,,,,,,,,,,,,,0.0,0.0
+4,CIN,Cincinnati Bengals,AFC,AFC North,DEN,Denver Broncos,AFC West,Away,,,,,,,,,,,,,0.0,0.0
+4,DEN,Denver Broncos,AFC,AFC West,CIN,Cincinnati Bengals,AFC North,Home,,,,,,,,,,,,,0.0,0.0
+4,SEA,Seattle Seahawks,NFC,NFC West,ARI,Arizona Cardinals,NFC West,Away,W,1.0,0.0,0.0,23.0,20.0,384.0,253.0,229.0,164.0,155.0,89.0,1.0,2.0
+4,ARI,Arizona Cardinals,NFC,NFC West,SEA,Seattle Seahawks,NFC West,Home,L,0.0,1.0,0.0,20.0,23.0,253.0,384.0,164.0,229.0,89.0,155.0,2.0,1.0
+4,MIN,Minnesota Vikings,NFC,NFC North,PIT,Pittsburgh Steelers,AFC North,Away,L,0.0,1.0,0.0,21.0,24.0,372.0,313.0,302.0,182.0,70.0,131.0,2.0,0.0
+4,PIT,Pittsburgh Steelers,AFC,AFC North,MIN,Minnesota Vikings,NFC North,Home,W,1.0,0.0,0.0,24.0,21.0,313.0,372.0,182.0,302.0,131.0,70.0,0.0,2.0
+4,WSH,Washington Commanders,NFC,NFC East,ATL,Atlanta Falcons,NFC South,Away,L,0.0,1.0,0.0,27.0,34.0,294.0,435.0,147.0,307.0,147.0,128.0,1.0,1.0
+4,ATL,Atlanta Falcons,NFC,NFC South,WSH,Washington Commanders,NFC East,Home,W,1.0,0.0,0.0,34.0,27.0,435.0,294.0,307.0,147.0,128.0,147.0,1.0,1.0
+4,NO,New Orleans Saints,NFC,NFC South,BUF,Buffalo Bills,AFC East,Away,L,0.0,1.0,0.0,19.0,31.0,298.0,356.0,109.0,191.0,189.0,165.0,1.0,1.0
+4,BUF,Buffalo Bills,AFC,AFC East,NO,New Orleans Saints,NFC South,Home,W,1.0,0.0,0.0,31.0,19.0,356.0,298.0,191.0,109.0,165.0,189.0,1.0,1.0
+4,CLE,Cleveland Browns,AFC,AFC North,DET,Detroit Lions,NFC North,Away,L,0.0,1.0,0.0,10.0,34.0,249.0,277.0,170.0,168.0,79.0,109.0,3.0,1.0
+4,DET,Detroit Lions,NFC,NFC North,CLE,Cleveland Browns,AFC North,Home,W,1.0,0.0,0.0,34.0,10.0,277.0,249.0,168.0,170.0,109.0,79.0,1.0,3.0
+4,CAR,Carolina Panthers,NFC,NFC South,NE,New England Patriots,AFC East,Away,L,0.0,1.0,0.0,13.0,42.0,326.0,307.0,197.0,203.0,129.0,104.0,0.0,0.0
+4,NE,New England Patriots,AFC,AFC East,CAR,Carolina Panthers,NFC South,Home,W,1.0,0.0,0.0,42.0,13.0,307.0,326.0,203.0,197.0,104.0,129.0,0.0,0.0
+4,LAC,Los Angeles Chargers,AFC,AFC West,NYG,New York Giants,NFC East,Away,L,0.0,1.0,0.0,18.0,21.0,338.0,250.0,186.0,89.0,152.0,161.0,2.0,0.0
+4,NYG,New York Giants,NFC,NFC East,LAC,Los Angeles Chargers,AFC West,Home,W,1.0,0.0,0.0,21.0,18.0,250.0,338.0,89.0,186.0,161.0,152.0,0.0,2.0
+4,PHI,Philadelphia Eagles,NFC,NFC East,TB,Tampa Bay Buccaneers,NFC South,Away,W,1.0,0.0,0.0,31.0,25.0,200.0,376.0,112.0,272.0,88.0,104.0,0.0,2.0
+4,TB,Tampa Bay Buccaneers,NFC,NFC South,PHI,Philadelphia Eagles,NFC East,Home,L,0.0,1.0,0.0,25.0,31.0,376.0,200.0,272.0,112.0,104.0,88.0,2.0,0.0
+4,TEN,Tennessee Titans,AFC,AFC South,HOU,Houston Texans,AFC South,Away,L,0.0,1.0,0.0,0.0,26.0,175.0,353.0,93.0,224.0,82.0,129.0,1.0,0.0
+4,HOU,Houston Texans,AFC,AFC South,TEN,Tennessee Titans,AFC South,Home,W,1.0,0.0,0.0,26.0,0.0,353.0,175.0,224.0,93.0,129.0,82.0,0.0,1.0
+4,IND,Indianapolis Colts,AFC,AFC South,LAR,Los Angeles Rams,NFC West,Away,L,0.0,1.0,0.0,20.0,27.0,333.0,462.0,248.0,360.0,85.0,102.0,3.0,1.0
+4,LAR,Los Angeles Rams,NFC,NFC West,IND,Indianapolis Colts,AFC South,Home,W,1.0,0.0,0.0,27.0,20.0,462.0,333.0,360.0,248.0,102.0,85.0,1.0,3.0
+4,JAX,Jacksonville Jaguars,AFC,AFC South,SF,San Francisco 49ers,NFC West,Away,W,1.0,0.0,0.0,26.0,21.0,325.0,389.0,174.0,306.0,151.0,83.0,0.0,4.0
+4,SF,San Francisco 49ers,NFC,NFC West,JAX,Jacksonville Jaguars,AFC South,Home,L,0.0,1.0,0.0,21.0,26.0,389.0,325.0,306.0,174.0,83.0,151.0,4.0,0.0
+4,BAL,Baltimore Ravens,AFC,AFC North,KC,Kansas City Chiefs,AFC West,Away,L,0.0,1.0,0.0,20.0,37.0,360.0,382.0,194.0,264.0,166.0,118.0,2.0,0.0
+4,KC,Kansas City Chiefs,AFC,AFC West,BAL,Baltimore Ravens,AFC North,Home,W,1.0,0.0,0.0,37.0,20.0,382.0,360.0,264.0,194.0,118.0,166.0,0.0,2.0
+4,CHI,Chicago Bears,NFC,NFC North,LV,Las Vegas Raiders,AFC West,Away,W,1.0,0.0,0.0,25.0,24.0,271.0,357.0,202.0,117.0,69.0,240.0,1.0,4.0
+4,LV,Las Vegas Raiders,AFC,AFC West,CHI,Chicago Bears,NFC North,Home,L,0.0,1.0,0.0,24.0,25.0,357.0,271.0,117.0,202.0,240.0,69.0,4.0,1.0
+4,GB,Green Bay Packers,NFC,NFC North,DAL,Dallas Cowboys,NFC East,Away,T,0.0,0.0,1.0,40.0,40.0,489.0,436.0,325.0,319.0,164.0,117.0,1.0,0.0
+4,DAL,Dallas Cowboys,NFC,NFC East,GB,Green Bay Packers,NFC North,Home,T,0.0,0.0,1.0,40.0,40.0,436.0,489.0,319.0,325.0,117.0,164.0,0.0,1.0
